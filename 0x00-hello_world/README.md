@@ -1,1 +1,1 @@
-script that runs a c file through the processor and result into another file
+script that runs a C file through the preprocessor and save the result into another file
